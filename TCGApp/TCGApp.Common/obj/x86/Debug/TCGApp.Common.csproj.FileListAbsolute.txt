@@ -1,0 +1,17 @@
+c:\users\daniela\documents\visual studio 2015\Projects\TCGApp\TCGApp.Common\bin\x86\Debug\TCGApp.Common.dll
+c:\users\daniela\documents\visual studio 2015\Projects\TCGApp\TCGApp.Common\bin\x86\Debug\TCGApp.Common.pdb
+c:\users\daniela\documents\visual studio 2015\Projects\TCGApp\TCGApp.Common\bin\x86\Debug\TCGApp.Common.pri
+c:\users\daniela\documents\visual studio 2015\Projects\TCGApp\TCGApp.Common\obj\x86\Debug\TCGApp.Common.dll
+c:\users\daniela\documents\visual studio 2015\Projects\TCGApp\TCGApp.Common\obj\x86\Debug\TCGApp.Common.pdb
+c:\users\daniela\documents\visual studio 2015\Projects\TCGApp\TCGApp.Common\obj\x86\Debug\priconfig.xml
+c:\users\daniela\documents\visual studio 2015\Projects\TCGApp\TCGApp.Common\obj\x86\Debug\priconfig.xml.intermediate
+c:\users\daniela\documents\visual studio 2015\Projects\TCGApp\TCGApp.Common\obj\x86\Debug\layout.resfiles
+c:\users\daniela\documents\visual studio 2015\Projects\TCGApp\TCGApp.Common\obj\x86\Debug\layout.resfiles.intermediate
+c:\users\daniela\documents\visual studio 2015\Projects\TCGApp\TCGApp.Common\obj\x86\Debug\resources.resfiles
+c:\users\daniela\documents\visual studio 2015\Projects\TCGApp\TCGApp.Common\obj\x86\Debug\resources.resfiles.intermediate
+c:\users\daniela\documents\visual studio 2015\Projects\TCGApp\TCGApp.Common\obj\x86\Debug\pri.resfiles
+c:\users\daniela\documents\visual studio 2015\Projects\TCGApp\TCGApp.Common\obj\x86\Debug\pri.resfiles.intermediate
+c:\users\daniela\documents\visual studio 2015\Projects\TCGApp\TCGApp.Common\obj\x86\Debug\qualifiers.txt
+c:\users\daniela\documents\visual studio 2015\Projects\TCGApp\TCGApp.Common\obj\x86\Debug\qualifiers.txt.intermediate
+c:\users\daniela\documents\visual studio 2015\Projects\TCGApp\TCGApp.Common\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\daniela\Documents\Visual Studio 2015\Projects\TCGApp\TCGApp.Common\obj\x86\Debug\TCGApp.Common.csprojResolveAssemblyReference.cache

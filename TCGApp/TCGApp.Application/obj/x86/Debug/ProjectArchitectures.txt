@@ -1,0 +1,2 @@
+C:\Users\daniela\Documents\Visual Studio 2015\Projects\TCGApp\TCGApp.Application\TCGApp.Application.csproj;x86
+C:\Users\daniela\Documents\Visual Studio 2015\Projects\TCGApp\TCGApp.Common\TCGApp.Common.csproj;x86
